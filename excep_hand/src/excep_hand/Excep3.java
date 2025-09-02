@@ -1,5 +1,7 @@
+package excep_hand;
+
 import java.io.IOException;
-import java.sql.SQLException;
+import java.sql.SQLException;   // ✅ Added this
 
 public class Excep3 {
 
